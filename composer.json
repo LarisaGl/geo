@@ -1,0 +1,13 @@
+{
+    "name": "larisagl/geo",
+    "authors": [
+        {
+            "name": "Golovina Larisa",
+            "email": "89888985265@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">5.3.0",
+        "yandex/geo": "^1.1"
+    }
+}
